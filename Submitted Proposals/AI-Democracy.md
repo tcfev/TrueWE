@@ -16,7 +16,7 @@ The use of AI in decision-making processes has the potential to improve the effi
 Literature review: To analyze existing literature on the topics of AI, democracy, and dictatorship, as well as the relationship between Open Science AI, Open Governance, and Democracy.
 
 # Budget
-The estimated budget to create a research proposal for this topic is 1,000$.
+The estimated budget to create a research proposal for this topic is 1,000₳..
 
 # Timeline
 2-3 months
