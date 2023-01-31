@@ -13,7 +13,7 @@ The research will involve a literature review of existing literature on Open Sci
 
 
 # Timeline and Budget:
-The timeline for this research project is estimated to be 306 months, with a budget of $1,000. The budget will be used to cover the cost of literature review
+The timeline for this research project is estimated to be 306 months, with a budget of 1,000₳.. The budget will be used to cover the cost of literature review
 
 # Outcome
 A solid research plan proposal for updatable science
